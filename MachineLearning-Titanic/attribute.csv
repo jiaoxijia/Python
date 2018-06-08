@@ -1,0 +1,12 @@
+变量名,含义
+Survived,是否幸存
+Name,乘客姓名
+Sex,乘客性别
+Age,乘客年龄
+SibSp,乘客随行的兄弟姐妹数量
+Parch,乘客随行的父母/兄弟数量
+Ticket,票号
+Fare,票价
+Cabin,船舱
+Pclass,乘客等级 1=头等 2=二等 3=三等
+Embarked,登船港口 C = Cherbourg S = Southampton Q = Queenstown

@@ -1,0 +1,6 @@
+#coding:utf-8
+
+hadoop jar /usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-examples-2.7.1.jar grep /input/dat0102.dat /op0102 HDFS
+
+
+��ʦ�����˼����hadoop-mapreduce-examples-2.7.1.jar������дô��
